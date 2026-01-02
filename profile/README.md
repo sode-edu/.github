@@ -23,11 +23,11 @@
 
 <div align="center">
 
-```ascii
+<pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║  A Collaborative Space for Academic Excellence & Innovation  ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 </div>
 
